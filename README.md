@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Steve Quinn
 
-<!--
-**iSteveZissou/iSteveZissou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer / Lead Developer focused on backend APIs,
+secure data sharing and maintainable web applications.
 
-Here are some ideas to get you started:
+I bring over eight years of software engineering experience, including
+more than six years as a hands-on Lead Developer at Mydex Data Services CIC.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work on
+
+- PHP and REST APIs, from core platform services to application integrations
+- OAuth 2.0, delegated access and consent-based data sharing
+- Code review, mentoring, architectural review and release coordination
+- AI-assisted development, with engineering guidance and careful validation
+
+### Technologies
+
+PHP · Slim · MySQL · Composer · JavaScript · OAuth 2.0 · ORY Hydra
+Git · Linux · Jenkins · Grafana · Postman / Newman
+
+### Background
+
+MSc Software Development and MA (Hons) English Language,
+University of Glasgow.
+
+[LinkedIn](https://www.linkedin.com/in/steve-quinn-200346445)
